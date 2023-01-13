@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio 1 - Multimedia</title>
+    </head>
+    <body>
+        <h1>Aprendiendo a utilizar imágenes</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/en/4/44/Crash_Bandicoot_Cover.png" alt="Videojuego favorito" width="400" height="390" />
+
+        <h1>Aprendiendo a utilizar los vídeos</h1>
+        <video width="300" height="250" controls autoplay loop muted>
+            <source src="RickAstley-NeverGonnaGiveYouUp.mp4" type="video/mp4" />
+        </video>
+
+    </body><h1>Aprendiendo a utilizar los audios</h1>
+        <audio controls autoplay loop>
+            <source src="Gorillaz - Humility.mp3" type="audio/mp3" />
+        </audio>
+    </body>
+</html>
