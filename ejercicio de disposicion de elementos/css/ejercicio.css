@@ -1,0 +1,5 @@
+.imagen-galeria {
+    width: 300px;
+    flex-wrap: wrap-reverse;
+    align-content: space-between;
+}
